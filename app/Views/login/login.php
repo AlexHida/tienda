@@ -54,6 +54,7 @@ header("Cache-Control: no-cache, must-revalidate");
       <div class="checkbox mb-3">
         <label>
           <input type="checkbox" value="remember-me"> Recordar mi sesión</label>
+          <input type="checkbox" value="remember-me"> cambio github</label>
       </div>
       <div class="row">
         <div class="col">
